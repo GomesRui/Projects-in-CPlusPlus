@@ -1,5 +1,4 @@
-# Projects-in-CPlusPlus
-Project RangeMe() C++
+# Project RangeMe() C++
 
 Exercise:
 
