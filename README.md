@@ -19,3 +19,5 @@ It will also allow for the Intersection operation between them. This will result
 includes only the values that are in both the ranges. For example: intersection( (3, 7), (6, 10) ) =
 (6, 7)
 It will also allow the developer to check if a number is contained in a range.
+
+For more information about this project and the source codes, please check the "Function range_meV2.docx".
