@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\v-ruigom\source\repos\jogadorclient\jogadorclient\main.cpp(112): warning C4018: '<': signed/unsigned mismatch
+  JogadorClient.vcxproj -> C:\Users\v-ruigom\source\repos\JogadorClient\Debug\JogadorClient.exe
